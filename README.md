@@ -1,0 +1,2 @@
+# administracja
+pakiet mieszkanca
